@@ -1,6 +1,7 @@
 # Devblog
 |ID|Version|URL|Date|
 |:-:|:-:|:-:|:-:|
+|65|Rust version 1695|https://rust.facepunch.com/news/devblog-125|Thursday, September 1, 2016
 |133|Rust version 1806|https://rust.facepunch.com/news/devblog-133|Thursday, October 27, 2016
 |177|Rust version 2013|https://rust.facepunch.com/news/devblog-177|Thursday, September 14, 2017
 |196|Rust version 2054|https://rust.facepunch.com/news/devblog-196|Thursday, February 1, 2018
@@ -14,7 +15,7 @@
 |247|Rust version 2293|https://rust.facepunch.com/news/gestures-update|Thursday, April 1, 2021
 |248|Rust version 2301|https://rust.facepunch.com/news/world-revamp|Thursday, May 6, 2021
 |261|Rust version 2332|https://rust.facepunch.com/news/zipline-update|Thursday, April 7, 2022
-|26?|Rust version 2370|https://rust.facepunch.com/news/industrial-update|Thursday, February 2, 2023
+|264|Rust version 2370|https://rust.facepunch.com/news/industrial-update|Thursday, February 2, 2023
 |265|Rust version 2377|https://rust.facepunch.com/news/eye-in-the-sky|Thursday, March 2, 2023
 |266|Rust version 2388|https://rust.facepunch.com/news/r-u-s-t|Thursday, May 4, 2023
 |277|Rust version 2392|https://rust.facepunch.com/news/bags-to-battles|Thursday, June 1, 2023
