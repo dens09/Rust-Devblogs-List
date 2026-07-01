@@ -20,7 +20,7 @@
 |266|Rust version 2388|https://rust.facepunch.com/news/r-u-s-t|May 4, 2023
 |277|Rust version 2392|https://rust.facepunch.com/news/bags-to-battles|June 1, 2023
 |280|Rust version 2398|https://rust.facepunch.com/news/deep-sea|July 6, 2023
-|287|Rust version 2567|https://rust.facepunch.com/news/armed-and-animated|November 7, 2024
+|287|Rust version 2567|https://rust.facepunch.com/news/armed-and-animated|November 11, 2024
 |290|Rust version 2570|https://rust.facepunch.com/news/polish-and-progress|December 5, 2024
 |292|Rust version 2574|https://rust.facepunch.com/news/lunar-new-year-2025|January 23, 2025
 |295|Rust version 2580|https://rust.facepunch.com/news/primitive|February 6, 2025
